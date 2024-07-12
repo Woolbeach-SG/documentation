@@ -64,12 +64,13 @@ Indstillinger flyttet under menuen
 Tilføjet Auditør adgang under ADFS Logs og Identifikationsmid-
 ler
 Ændret menu:
-```
+
 - ADFS log
 - Identifikationsmidler
 - Indstillinger
-  Skift mellem domæner + FK test/prod flyttet ud på hovedsiden
-
+  
+Skift mellem domæner + FK test/prod flyttet ud på hovedsiden
+```
 ```
 14 JUL- 24 JJ + CU Beskrivelse af FRBS rettigheder tilføjet.
 ```
