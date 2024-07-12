@@ -6,81 +6,11 @@ nav_order: 2
 
 ## Adgangsstyring
 
-**Administrer brugeres identifikationsmidler og adgange til**
-
-**systemerne i den fælleskommunale (FK) rammearkitektur**
-
-# og MitID Erhverv
+### Administrer brugeres identifikationsmidler og adgange til systemerne i den fælleskommunale (FK) rammearkitektur og MitID Erhverv
 
 Juli 2024
 
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
-## Revisionshistorik
-
-```
-Version Dato Ansvarlig Bemærkninger
-```
-```
-3 07 - JAN- 22 PRA Revisionshistorik tilføjet.
-```
-```
-FK Administration read-only rolle tilføjet.
-FK Organisation read-only rolle tilføjet.
-```
-```
-4 11 - JAN- 22 PRA Uddybende forklaring af Opret jobfunktionsrolle.
-```
-```
-5 20 - JAN- 22 PRA Dokumentversionering indført.
-```
-```
-6 28 - JUL- 22 PRA Beskrivelse af Indstillinger tilføjet.
-```
-```
-7 22 - SEP- 22 PRA Rollestyringsbeskrivelser opdateret.
-```
-```
-8 28 - NOV- 22 PRA Information om spærringskvittering tilføjet.
-```
-```
-9 30 - NOV- 22 PRA Rettighedsadministration præciseret.
-```
-```
-10 12 - JAN- 23 PRA Rettighedsadministration opdateret.
-```
-```
-11 17 - AUG- 23 JJ Certifikatstyring tilføjet. Opdatering af design.
-```
-```
-12 28 - NOV- 23 PRA Teknisk afsnit udvidet med databasebeskrivelse.
-```
-```
-13 04 - MAR- 24 JJ Generel ajourføring
-Indstillinger flyttet under menuen
-Tilføjet Auditør adgang under ADFS Logs og Identifikationsmid-
-ler
-Ændret menu:
-
-- ADFS log
-- Identifikationsmidler
-- Indstillinger
-  
-Skift mellem domæner + FK test/prod flyttet ud på hovedsiden
-```
-```
-14 JUL- 24 JJ + CU Beskrivelse af FRBS rettigheder tilføjet.
-```
-
-## Signaturgruppen A/S http://www.signaturgruppen.dk
-
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-
+## Indholdsfortegnelse
 - 1 Indledning Indholdsfortegnelse
 - 2 Roller og rettigheder
     - 2.1 Konfiguration
@@ -124,10 +54,7 @@ Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.d
     - 9.6 Databasebeskrivelse
 
 
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
-## 1 Indledning Indholdsfortegnelse
+### Indledning Indholdsfortegnelse
 
 Adgangsstyring fra Signaturgruppen er et modulopbygget system, der gør det muligt for organisationen at
 administrere brugeres identifikationsmidler, certifikater og adgange til systemerne i den fælleskommunale
