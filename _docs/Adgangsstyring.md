@@ -1,6 +1,7 @@
 ﻿---
 title: Adgangsstyring
-nav_order: 2
+layout: home
+nav_order: 2 
 ---
 
 ## Signaturgruppen
