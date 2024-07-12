@@ -7,8 +7,15 @@ url: woolbeach-sg.github.io/documentation/
 aux_links: # remove if you don't want this link to appear on your pages
   Template Repository: woolbeach-sg.github.io
 
+# Navigation links
 nav:
   - title: "Home"
     url: /
   - title: "Adgangsstyring"
     url: /adgangsstyring/
+
+# Collection settings
+collections:
+  docs:
+    output: true
+    permalink: /docs/:path/
