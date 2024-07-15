@@ -14,8 +14,8 @@ nav:
   - title: "Adgangsstyring"
     url: /adgangsstyring/
     children:
-      - title: "Indledning"
-        url: /adgangsstyring/indledning/
+      - title: "Roller og rettigheder"
+        url: /adgangsstyring/roller_og_rettigheder/
 
 # Collection settings
 collections:
