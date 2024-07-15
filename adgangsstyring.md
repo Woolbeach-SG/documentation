@@ -45,7 +45,7 @@ Juli 2024
     - 8.4 Konfigurer tilknytningsmuligheder
     - 8.5 Licenser
     - 8.6 Skift FK-miljø
-- 9 Tekniske konfigurationsdetaljer Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
+- 9 Tekniske konfigurationsdetaljer 
     - 9.1 Systemadministrator
     - 9.2 Rolleadministrator
     - 9.3 Brugeradministrator
@@ -154,10 +154,6 @@ I billedet med detaljerede brugeroplysninger er der fire faneblade:
 - fx tilknytning og spærring af identifikationsmidler
   ▪ Trafik viderestiller til modulet ADFS Log, hvor login-trafik kan
   fremsøges – tilføjer automatisk brugernavnet
-
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 Afhængigt af tildelte roller, så er det under Administration muligt for en administrator at
 
