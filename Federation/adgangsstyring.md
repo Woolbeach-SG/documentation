@@ -12,52 +12,18 @@ has_children: false
 
 
 
-## 8 FBRS Rettigheder
-
-Modulet ”FBRS” bruges til overblik, udtræk og håndtering af rettigheder fra MitID Erhverv.
-
-### 8.1 Governance udtræk
-
-Ved at skrive sin mailadresse og trykke på knappen ”Hent governance udtræk” modtages en oversigt over
-alle rettigheder, der er sat i MitID Erhverv, i alle cvr-nummer – både rettigheder fra grupper og individuelle.
-Dette er en god måde at danne sig et overblik over hvilke rettigheder man gør brug af og hvordan en potentiel
-fordeling kunne se ud.
-
-### 8.2 Opsætning
-
-I venstre side ses en liste over alle organisationer, som der er
-
-### 8.3 Rettighedsgrupper i valgt CVR
-
-I højre side er der en oversigt over hvilke rettighedsgrupper, der er i ét specifikt CVR i MitID Erhverv.
-Her kan der både oprettes AD-grupper direkte eller tilføjes en allerede eksisterende AD-gruppe.
-Under ”Navn” ses hvad brugerrettighedsgrupperne hedder i MitID Erhverv og ”AD-gruppenavn” er det som
-AD-gruppen hedder.
-
-Når der trykkes ”Tilføj gruppe” tilføjes der både en AD-gruppe og en brugerrettighedsgruppe i MitID Erhverv.
-
-Når der trykkes ”Opret grupper” oprettes der en AD-gruppe, på baggrund af de brugerrettighedsgrupper i
-MitID Erhverv.
-
-### 8.4 Fjern rettigheder
-
-Ved at trykke ”Fjern ALLE direkte rettigheder” fjernes
-
-### 8.5 Fjern tilknytninger til slettede AD-grupper
-
 ## 8 Indstillinger
 
 Menuen ’Indstillinger’ bruges til at se og ændre Adgangsstyrings virkemåde.
 
 Menuen indeholder fem funktioner:
 
-```
-▪ Aktivitetslog
-▪ Opsætning
-▪ Konfigurer adgang
-▪ Konfigurer tilknytningsmuligheder
-▪ Licenser
-```
+* Aktivitetslog
+* Opsætning
+* Konfigurer adgang
+* Konfigurer tilknytningsmuligheder
+* Licenser
+
 ### 8.1 Aktivitetslog
 
 Denne funktion bruges til at inspicere administratorernes handlinger i forskellige systemer. For at kunne se
