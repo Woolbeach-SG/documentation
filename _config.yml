@@ -13,6 +13,8 @@ nav:
     url: /
   - title: "Adgangsstyring"
     url: /adgangsstyring/
+      - title: "underpunkt 1"
+        url: /adgangsstyring/underpunkt1
 
 # Collection settings
 collections:
