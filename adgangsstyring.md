@@ -1,6 +1,6 @@
 ---
 title: Adgangsstyring
-layout: home
+layout: default
 nav_order: 2 
 ---
 Juli 2024

@@ -1,6 +1,6 @@
 ---
 title: Underpunkt 1
-layout: home
+layout: default
 parent: Adgangsstyring
 nav_order: 1 
 ---
