@@ -1,6 +1,6 @@
 ---
 title: Underpunkt 1
-layout: Adgangsstyring
+layout: home
 nav_order: 3 
 ---
 
