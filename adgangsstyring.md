@@ -3,12 +3,10 @@ title: Adgangsstyring
 layout: home
 nav_order: 2 
 ---
-
+Juli 2024
 ## Adgangsstyring
 
 ### Administrer brugeres identifikationsmidler og adgange til systemerne i den fælleskommunale (FK) rammearkitektur og MitID Erhverv
-
-Juli 2024
 
 ## Indholdsfortegnelse
 - 1 Indledning Indholdsfortegnelse
