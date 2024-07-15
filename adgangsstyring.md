@@ -154,7 +154,6 @@ I billedet med detaljerede brugeroplysninger er der fire faneblade:
 
 
 ![Federation Menu](Billedmateriale\FederationIdentifikationsmiddeladministration.png)\
-![Federation Menu](Billedmateriale\Federation2FaktorAdministration.png)
 
 Afhængigt af tildelte roller, så er det under Administration muligt for en administrator at
 
