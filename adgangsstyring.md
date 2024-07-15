@@ -89,7 +89,7 @@ Ikke alle moduler er relevante for alle organisationer, og hvert modul kan derfo
 efter behov i samarbejde med Signaturgruppen. Hvis alle moduler er aktiveret, så ser hovedmenuen ud
 som vist herunder.
 
-![Federation Menu](Billedmateriale/FederationFrontpage.png
+![Federation Menu](C:\Signaturgruppen\GIT\documentation\Billedmateriale\FederationFrontpage.png)
 
 
 ## 2 Roller og rettigheder
