@@ -62,6 +62,8 @@ Denne funktion giver et udtræk af alle brugernes seneste registrerede 2 - fakto
 der har brugt hvad og hvornår.
 Validering af ADFS-logs.
 
+![ADFS Log - Udtræk og validering](Billedmateriale\ELPUdtræk.png)
+
 ### 6.4 Oprydning
 
 Denne funktion bruges til at slette ældre ADFS-logfiler. Der slettes permanent filer der er ældre end det an-
