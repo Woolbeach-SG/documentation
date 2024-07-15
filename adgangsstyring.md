@@ -91,10 +91,6 @@ Ikke alle moduler er relevante for alle organisationer, og hvert modul kan derfo
 efter behov i samarbejde med Signaturgruppen. Hvis alle moduler er aktiveret, så ser hovedmenuen ud
 som vist herunder.
 
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 ## 2 Roller og rettigheder
 
 Adgangsstyring anvendes af _brugeradministratorer_ til at administrere brugernes identifikationsmidler, ad-
@@ -125,19 +121,10 @@ Konfiguration af Adgangsstyring foregår på følgende måde:
 4. Rettighedsadministratoren melder brugeradministratorerne ind i de relevante AD-grupper
 5. En domæneadministrator logger ind i Adgangsstyring, og udpeger R-gruppen via Indstillinger > Kon-
    figurer adgang > Rettighedsadministration
-
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 6. Rettighedsadministratoren logger ind i Adgangsstyring, og knytter AD-grupperne til de respektive
    roller (se afsnit 9.3)
 
 Herefter kan brugeradministratorerne logge ind i Adgangsstyring og udføre deres opgaver.
-
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 ## 3 Identifikationsmidler
 
@@ -183,9 +170,6 @@ Afhængigt af tildelte roller, så er det under Administration muligt for en adm
 privat MitID – kun hvis man har tilkøbt manuel registrering og er RA-administrator)
 ```
 
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 Hvis der er registreret et eller flere identifikationsmidler på brugerens konto, så ses de i bunden af Admini-
 strationsfanebladet.
 
@@ -197,10 +181,6 @@ Bekræft handlingen for at gennemføre sletningen.
 
 Hvis, der er registreret en mail på brugerens AD-konto, så modtager brugeren en e-mail fra systemet inde-
 holdende en spærringskvittering.
-
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 ### 3.2 Udtræk, revision & validering
 
@@ -214,15 +194,8 @@ Herunder er der tre faneblade:
 ▪ Validering her kan sendes en e-mail med validering af integritetsbeskyttelsen
 ```
 
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 Under revisionsfanebladet er det muligt at angive et tidsinterval og hente lister med NSIS-relevante hæn-
 delser og registreringer.
-
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 **Her er et eksempel for Identitetssikringer:**
 
@@ -235,18 +208,10 @@ Listen indeholder de identitetssikringer, der er gjort i den angivet periode, Us
 brugerne, den anvendte loginmetode og evt. hvilken administratorer der foretog identitetssikringen, hvis
 man har tilkøbt det manuelle registreringsmodul.
 
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 Under Valideringsfanen kan der ligeledes filtreres efter en specifik tidsperiode. Indtast mailadressen som
 integritetsbeskyttelsen skal sendes til og tryk ”Test integritetsbeskyttelse”.
 
 Et eksempel på hvordan e-mailen kan se ud:
-
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 ### 3.3 Tilføj / fjern token-registreringer
 
@@ -255,10 +220,6 @@ mets database, eller fjerne registreringer fra databasen.
 
 En bruger kan kun tilknytte en forud-registreret kodeviser til sin AD-konto som et to-faktoridentifikations-
 middel.
-
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 ## 4 FK Administration
 
@@ -310,9 +271,6 @@ Funktionen indeholder tre underordnede indgange svarende til de AD-elementer, de
 ▪ Grupper (AD security groups)
 ```
 
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 ```
 ▪ Organisatoriske enheder (AD organizational units)
 ```
@@ -343,9 +301,6 @@ Funktionen kan bruges til at
 ▪ Melde brugere ind/ud af en AD-gruppe
 ```
 
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 **4.3.3 Organisatoriske enheder**
 
 Funktionen kan bruges til at
@@ -357,9 +312,6 @@ Funktionen kan bruges til at
 ▪ Slette en OU's opmærkning (jfr, kle, osv.)
 ▪ Oprette en AD-gruppe under OU'en
 ```
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 ## 5 FK Organisation
 
@@ -403,10 +355,6 @@ en gang i døgnet – typisk om natten. Denne funktion (Synkronisering) kan brug
 
 Klik på Synkronisering og følg guiden.
 
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 ### 5.4 Udbetalende enheder
 
 Registreringsmønsteret ”Udbetalende Enheder” er beskrevet i afsnit 6.3 i KOMBIT’s dokument ”Anvisninger
@@ -429,10 +377,6 @@ Den udbetalende enhed bliver i første omgang oprettet i det lokale AD, og i for
 synkronisering oprettes enheden også i FK Organisation. Hvis der er behov for en straks-oprettelse, så kan
 en synkronisering igangsættes med det samme under menupunktet Synkronisering.
 
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 ### 5.5 Henvendelsessteder
 
 Registreringsmønsteret ”Henvendelsessteder” er beskrevet i afsnit 6.4 i KOMBIT’s dokument ”Anvisninger
@@ -451,10 +395,6 @@ Fremgangsmåde ved oprettelse af henvendelsessted:
 Henvendelsesstedet bliver i første omgang oprettet i det lokale AD, og i forbindelse med den natlige syn-
 kronisering oprettes enheden også i FK Organisation. Hvis der er behov for en straks-oprettelse, så kan en
 synkronisering igangsættes med det samme under menupunktet Synkronisering.
-
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 ## 6 ADFS Log
 
@@ -506,10 +446,6 @@ Angiv det ønskede tidsinterval og klik på Opdater.
 
 De fremfundne logninger vises i en graf under søgefeltet.
 
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 ### 6.3 Udtræk og validering
 
 Denne funktion giver et udtræk af alle brugernes seneste registrerede 2 - faktor login. Listen indeholder hvem
@@ -543,10 +479,6 @@ For at se hvilken server logningerne kommer fra, afkrydser der i feltet ’Serve
 vises i en liste under søgefeltet. Hvis der er mange logninger, der matcher søgekriteriet, så vises de på flere
 sider.
 
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 **6.5.2 Se diagrammer**
 
 Denne funktion bruges til at danne et grafisk overblik over logningerne.
@@ -578,10 +510,6 @@ De fremfundne logninger vises i en liste under søgefeltet. Hvis der er mange lo
 kriteriet, så vises de på flere sider.
 Klik på en logning for at folde den ud og se detaljerne i den pågældende logning.
 
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 ## 7 Certifikatstyring
 
 Modulet Certifikatstyring bruges til administration af certifikater.
@@ -597,10 +525,6 @@ fra et referencenummer og en pinkode.
 **7.1.1 Importér certifikat**
 
 **7.1.2 Opret administrationscertifikat**
-
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 ### 7.2 Tilføj features
 
@@ -619,10 +543,6 @@ o Skal afkrydses hvis I ønsker at IdM-sync løsningen skal bestille ID-midler (
 kodeoplæser) til brugere, der har valgt en af disse ID-midler.
 o Har I oplyst et EAN-nummer i MitID Erhverv, og ønsker at IdM-sync skal bestille ID-midler,
 skal I notere det oplyste EAN-nummer i boksen nederst på siden.
-
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 ```
 ▪ Opsæt adresse på gruppe (standard er læst fra AD-bruger):
@@ -649,10 +569,6 @@ Denne feature anvendes til at uploade systemcertifikat til FK rammearkitekturen.
 **7.2.5 SC feature**
 
 Denne feature er kun relevant for Signaturcentraler med OCES3 funktionalitet.
-
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 ## 8 FBRS Rettigheder
 
@@ -681,19 +597,11 @@ Når der trykkes ”Tilføj gruppe” tilføjes der både en AD-gruppe og en bru
 Når der trykkes ”Opret grupper” oprettes der en AD-gruppe, på baggrund af de brugerrettighedsgrupper i
 MitID Erhverv.
 
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 ### 8.4 Fjern rettigheder
 
 Ved at trykke ”Fjern ALLE direkte rettigheder” fjernes
 
 ### 8.5 Fjern tilknytninger til slettede AD-grupper
-
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 ## 8 Indstillinger
 
@@ -719,10 +627,6 @@ cere større eller mindre dele af de forskellige logs.
 De fremfundne logninger vises i en liste under søgefeltet. Hvis der er mange logninger, der matcher søge-
 kriteriet, så vises de på flere sider.
 
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 ### 9.2 Rolleadministrator
 
 Denne funktion bruges til at se og ændre dele af Adgangsstyrings virkemåde.
@@ -731,10 +635,6 @@ Denne funktion bruges til at se og ændre dele af Adgangsstyrings virkemåde.
 logning, der skal gemmes. Klik på knappen ’Gem’ for at gemme den valgte opsætning.
 ”NSIS log: Automatisk validering” aktiveres ved at afkrydse funktionen, angive e-mailadressen og trykke
 ’Gem’.
-
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 ### 8.3 Konfigurer adgang
 
@@ -756,10 +656,6 @@ Under FK Administration er der tre roller:
 
 Bemærk, at STS Administrator indeholder Administrator, og Administrator indeholder Read Only.
 
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 **9.3.2 FK Organisation**
 
 Under FK Organisation er der tre roller:
@@ -769,10 +665,6 @@ Under FK Organisation er der tre roller:
 
 Bemærk, at Extended indeholder Administrator, og Administrator indeholder Read Only.
 
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 **9.3.3 ADFS logs**
 
 Under ADFS logs er der tre roller:
@@ -781,10 +673,6 @@ Under ADFS logs er der tre roller:
 ▪ Logdata sletteadgang (Administrator)
 
 Bemærk, at Administrator indeholder Read Only, men ikke Auditør.
-
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 **9.3.4 Identifikationsmidler**
 
@@ -796,10 +684,6 @@ Under Identifikationsmidler er der op til fem roller:
 ▪ Adgang til manuel verifikation (NSIS-RA Administrator)
 
 Bemærk, at Adgang til manuel verifikation (NSIS-RA Administrator) er et tilkøbsmodul.
-
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 **9.3.5 Certifikatstyring**
 
@@ -819,10 +703,6 @@ til de moduler, der er tilgængelige i den pågældende løsning. Dette er en si
 fuld kontrol over hvem der har adgang til hvad. Se en mere detaljeret og teknisk uddybning i afsnittet: Sy-
 stemadministrator.
 
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 Det er også muligt at angive hvilke AD-grupper, det skal være muligt at vælge for administratorbrugerne
 under de forskellige faner.
 
@@ -836,10 +716,6 @@ brugere til at tilknytte ID-midler.
 Denne funktion viser hvilke licenserede tredjepartsprodukter Adgangsstyring anvender samt i hvilken ver-
 sion.
 
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 ### 8.6 Skift FK-miljø
 
 I øverste højre side findes oplysninger om brugeren man er logget ind med og her er også mulighed for at
@@ -848,10 +724,6 @@ og PROD. Det er således muligt at oprette fx jobfunktionsroller på begge servi
 og med samme Adgangsstyringsværktøj.
 
 Bemærk, at denne funktion kun er til rådighed med en udvidet licens.
-
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 ## 10 Tekniske konfigurationsdetaljer
 
@@ -902,10 +774,6 @@ Systemadministratoren og rolleadministratoren fastlægger relationen mellem AD-r
 om en given AD-rollegruppe skal repræsentere en enkelt eller flere roller. Herefter opretter systemadmini-
 stratoren rollegrupperne i AD, hvis de ikke allerede findes, og afspejler relationen til rollerne via claim rules
 i ADFS’en.
-
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 I det helt simple tilfælde knyttes alle roller til en enkelt rollegruppe med den konsekvens, at alle der er
 medlem af rollegruppen får adgang til alle funktioner i Adgangsstyring. Et mere detaljeret eksempel følger
@@ -960,9 +828,6 @@ Udløser rollen ACCESS_CONTROL_LOCAL + en restriktion
 Medlemmer: Dennis
 ```
 
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 ```
 ▪ AD-gruppe: Auditør
 Udløser rollerne AUDITOR, ADFS, IDM, IDM_AUDITOR
@@ -1011,10 +876,6 @@ roller er:
 Rollerne tildeles som ekstra roller, udover de funktionsspecifikke roller, der giver brugeradministratoren
 rettigheder til funktionerne i FK Administration og Identifikationsmidler.
 
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 **10.4.1 OU-restriktion**
 
 En brugeradministrator med rollen som lokal administrator kan begrænses til kun at fremsøge og admini-
@@ -1062,10 +923,6 @@ denne rolle:
 Rollen tildeles som en ekstra rolle, udover de funktionsspecifikke roller, der giver brugeradministratoren
 rettigheder til funktionerne i FK Administration.
 
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 Hvis en brugeradministrator kun skal have læseadgang i FK Organisation, så skal vedkommende tildeles
 denne rolle:
 
@@ -1073,10 +930,6 @@ denne rolle:
 
 Rollen tildeles som en ekstra rolle, udover de funktionsspecifikke roller, der giver brugeradministratoren
 rettigheder til funktionerne i FK Organisation.
-
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 ### 9.6 Databasebeskrivelse
 
@@ -1129,9 +982,6 @@ OrganizationName CVR-navn
 P 12 MitID Erhverv systemcertifikat inkl. privat nøgle
 ```
 
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 ```
 Type
 Uuid MitID Erhverv systemcertifikat UUID
@@ -1182,9 +1032,6 @@ UpdatedBy Information om administrator
 MainGroupId Fx 00
 Tooltip Fx Kommunens styrelse
 ```
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 ```
 KLESubject
@@ -1239,9 +1086,6 @@ Kodeviser shared secret
 Serial Kodeviser serienummer
 ```
 
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 ```
 OrgSyncAuditLog
 Kolonne Beskrivelse
@@ -1280,10 +1124,6 @@ Event Viewer (Local) > Windows Logs > Security.
 Udover selve token issue event'et (Event ID 299) hentes også tilhørende input claim events (Event ID 501) og
 output claim events (Event ID 500). Disse informationer gemmes i de tre tabeller LogEvent, InputClaim og
 OutputClaim med hændelsens InstanceID som relationsnøgle.
-
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 ```
 Tabel: LogEvent
@@ -1378,10 +1218,6 @@ ClaimType Claim-type
 Rækker med EventID 299 repræsenterer brugere, der både er autentificerede og autoriserede.
 (A token was successfully issued for the relying party X)
 
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
-
 Rækker med EventId 324 repræsenterer brugere, der er autentificerede, men ikke er autoriserede.
 (The Federation Service could not authorize token issuance for caller A to relying party X).
 
@@ -1431,9 +1267,6 @@ Disse hændelser gemmes i DeviceLog-tabellen, der indeholder følgende informati
 ```
 DeviceLog
 ```
-
-Signaturgruppen A/S [http://www.signaturgruppen.dk](http://www.signaturgruppen.dk)
-Navitas ▪ Inge Lehmanns Gade 10 ▪ 8000 Aarhus C info@signaturgruppen.dk
 
 ```
 Kolonne Beskrivelse
