@@ -1,7 +1,7 @@
 ---
 title: Adgangsstyring
 layout: default
-parent: index Adgangsstyring
+parent: Adgangsstyring
 nav_order: 1
 has_children: false
 ---
