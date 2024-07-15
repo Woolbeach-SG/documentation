@@ -116,6 +116,7 @@ Mulige søgekriterier:
 
 * Specifikt brugernavn eller dele af et brugernavn (mindst de to første bogstaver)
 * Datointerval
+* InstanceID
 
 For at se hvilken server logningerne kommer fra, afkrydser der i feltet ’Server’.
 De fremfundne logninger vises i en liste under søgefeltet. Hvis der er mange logninger, der matcher søge-
