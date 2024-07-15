@@ -1,6 +1,7 @@
 ---
 title: FK Administration
 layout: default
+parent: Adgangsstyring
 nav_order: 3
 has_children: false
 ---
