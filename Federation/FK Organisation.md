@@ -52,6 +52,8 @@ Klik på Synkronisering og følg guiden.
 Registreringsmønsteret ”Udbetalende Enheder” er beskrevet i afsnit 6.3 i KOMBIT’s dokument ”Anvisninger
 til anvendelse af Organisation”, og er illustreret på følgende måde:
 
+![FK Organisation Udbetalende Enheder](Billedmateriale\FKOrganisationUdbetalendeEnheder.png)
+
 Læg mærke til, at den udbetalende enhed skal relateres til en LOS-adresse. Den underliggende synkronise-
 ring af LOS-information til FK Organisation sættes op i synkroniseringsservicen i samarbejde med Signatur-
 gruppen.
@@ -73,6 +75,8 @@ en synkronisering igangsættes med det samme under menupunktet Synkronisering.
 
 Registreringsmønsteret ”Henvendelsessteder” er beskrevet i afsnit 6.4 i KOMBIT’s dokument ”Anvisninger
 til anvendelse af Organisation”, og er illustreret på følgende måde:
+
+![FK Organisation Udbetalende Enheder](Billedmateriale\FKOrganisationHenvendelsessteder.png)
 
 Fremgangsmåde ved oprettelse af henvendelsessted:
 
