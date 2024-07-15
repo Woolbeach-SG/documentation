@@ -8,9 +8,8 @@ has_children: false
 
 ## 2 Roller og Rettigheder
 
-Adgangsstyring anvendes af _brugeradministratorer_ til at administrere brugernes identifikationsmidler, ad-
-gang til logs samt rettigheder i FK rammearkitekturen. Brugeradministratorernes egne rettigheder til at be-
-nytte moduler og funktioner i Adgangsstyring administreres af en _rettighedsadministrator_.
+Adgangsstyring anvendes af _brugeradministratorer_ til at administrere brugernes identifikationsmidler, adgang til logs samt rettigheder i FK rammearkitekturen.\
+Brugeradministratorernes egne rettigheder til at benytte moduler og funktioner i Adgangsstyring administreres af en _rettighedsadministrator_.
 
 Oversigt:
 
