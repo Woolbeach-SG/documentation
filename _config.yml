@@ -14,8 +14,24 @@ nav:
   - title: "Adgangsstyring"
     url: /adgangsstyring/
     children:
-      - title: "Roller og rettigheder"
+      - title: "[2] Roller og rettigheder"
         url: /adgangsstyring/roller_og_rettigheder/
+      - title: "[3] Identifikationsmidler"
+        url: /adgangsstyring/identifikationsmidler/
+      - title: "[4] FK Administration"
+        url: /adgangsstyring/fk_administration/
+      - title: "[5] FK Organisation"
+        url: /adgangsstyring/fk_organisation/
+      - title: "[6] ADFS Log"
+        url: /adgangsstyring/adfs_log/
+      - title: "[7] Certifikatstyring"
+        url: /adgangsstyring/identifikationsmidler/  
+      - title: "[8] FBRS Rettigheder"
+        url: /adgangsstyring/fbrs/
+      - title: "[9] Indstillinger"
+        url: /adgangsstyring/indstillinger/ 
+      - title: "[10] Tekniske konfigurationsdetaljer"
+        url: /adgangsstyring/tekniske_konfigurationsdetaljer/  
 
 # Collection settings
 collections:
