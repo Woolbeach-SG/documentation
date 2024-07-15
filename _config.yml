@@ -22,7 +22,7 @@ nav:
         url: /adgangsstyring/fk_administration/
       - title: "FK Organisation"
         url: /adgangsstyring/fk_organisation/
-      - title: "[ADFS Log"
+      - title: "ADFS Log"
         url: /adgangsstyring/adfs_log/
       - title: "Certifikatstyring"
         url: /adgangsstyring/identifikationsmidler/  
