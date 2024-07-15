@@ -1,7 +1,7 @@
 ---
-title: Underpunkt 1
+title: Home
 layout: home
-nav_order: 3 
+nav_order: 1
 ---
 
 
