@@ -24,7 +24,7 @@ fra et referencenummer og en pinkode.
 
 **7.1.2 Opret administrationscertifikat**
 
-![Certifikatstyring - Opret administrationscertifikat](Billedmateriale\CertifikatStyringOpretAdministrationscertifikat.png)
+![Certifikatstyring - Opret administrationscertifikat](Billedmateriale\CertifikatstyringOpretAdministrationscertifikat.png)
 
 ### 7.2 Tilføj features
 
