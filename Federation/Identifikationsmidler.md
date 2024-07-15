@@ -36,7 +36,7 @@ I billedet med detaljerede brugeroplysninger er der fire faneblade:
    * Viderestiller til modulet ADFS Log, hvor login-trafik kan
      fremsøges – tilføjer automatisk brugernavnet
 
-![Federation Menu](Billedmateriale\Identifikationsmiddeladministration.png)\
+![Federation Menu](Billedmateriale\Identifikationsmiddeladministration.png)
 
 Afhængigt af tildelte roller, så er det under Administration muligt for en administrator at
 
