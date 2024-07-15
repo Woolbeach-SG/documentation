@@ -52,7 +52,7 @@ Juli 2024
     - 9.6 Databasebeskrivelse
 
 
-### Indledning Indholdsfortegnelse
+## 1 Indledning
 
 Adgangsstyring fra Signaturgruppen er et modulopbygget system, der gør det muligt for organisationen at
 administrere brugeres identifikationsmidler, certifikater og adgange til systemerne i den fælleskommunale
@@ -60,29 +60,26 @@ administrere brugeres identifikationsmidler, certifikater og adgange til systeme
 
 Adgangsstyring indeholder følgende moduler:
 
-```
-▪ Identifikationsmidler
+* Identifikationsmidler\
 Administration af brugeres identifikationsmidler til brug i føderative systemer, hvor tjenester kræ-
 ver to-faktor adgang.
-▪ FK Administration
+* FK Administration\
 Administration af brugere og deres jobfunktionsroller og tilhørende opmærkninger til brug for ad-
 gang til fagsystemer i FK rammearkitekturen.
-▪ FK Organisation
+* FK Organisation\
 Administration af organisatoriske funktioner og tilhørende opmærkninger til brug i støttesystemet
 Organisation i FK rammearkitekturen.
-```
-```
-▪ ADFS Log
+* ADFS Log\
 Inspektion af data opsamlet i forbindelse med brugeres føderative logins via ADFS.
-▪ Certifikatstyring
+* Certifikatstyring\
 Administration af certifikater
-▪ FBRS
+* FBRS\
 Oversigt, udtræk og håndtering af rettigheder fra MitID Erhverv.
-▪ Indstillinger
+* Indstillinger\
 Her findes aktivitetslog til udtræk, detaljer om opsætning, konfiguration af adgangsgivende AD-
 grupper både for identifikationsmidler og for adgangen til Adgangsstyring-portalen, samt liste over
 hvilke licenserede tredjepartsprodukter Adgangsstyring anvender.
-```
+
 Modulerne er beskrevet i separate afsnit i denne vejledning.
 
 Ikke alle moduler er relevante for alle organisationer, og hvert modul kan derfor aktiveres eller deaktiveres
@@ -100,15 +97,13 @@ nytte moduler og funktioner i Adgangsstyring administreres af en _rettighedsadmi
 
 Oversigt:
 
-```
-▪ Rettighedsadministrator (rettighedskonfiguration)
+* Rettighedsadministrator (rettighedskonfiguration)\
 Melder brugeradministratorer ind og ud af brugeradministratorgrupper i AD og tilknytter brugerad-
 ministratorgrupper til roller inde i Adgangsstyring (under Indstillinger).
-```
-```
-▪ Brugeradministrator (brugerkonfiguration)
+
+* Brugeradministrator (brugerkonfiguration)\
 Betjener en eller flere funktioner i modulerne i Adgangsstyring.
-```
+
 ### 2.1 Konfiguration
 
 Grundlaget for tildeling af rettigheder i Adgangsstyring er AD-grupper.
@@ -134,11 +129,11 @@ føderative systemer, hvor tjenester kræver to-faktor adgang.
 
 Modulet indeholder tre overordnede funktioner:
 
-```
-▪ Administrér identifikationsmidler
-▪ Udtræk lister til revision
-▪ Tilføj / fjern token-registreringer
-```
+
+* Administrér identifikationsmidler
+* Udtræk lister til revision
+* Tilføj / fjern token-registreringer
+
 ### 3.1 Administrér identifikationsmidler
 
 Fremsøg en bruger ved at indtaste mindst de to første bogstaver i brugernavnet og klik på Søg.
@@ -147,25 +142,28 @@ Klik på det brugernavn hvis detaljerede oplysninger ønskes vist.
 
 I billedet med detaljerede brugeroplysninger er der fire faneblade:
 
-```
-▪ Administration viser oplysninger om brugerens AD-konto
-▪ Historik viser brugerens fulde historik over identifikationsmidler
-▪ Administrationshistorik viser administrative hændelser og integritetssikringen her af
-```
-- fx tilknytning og spærring af identifikationsmidler
-  ▪ Trafik viderestiller til modulet ADFS Log, hvor login-trafik kan
+* Administration
+  * Viser oplysninger om brugerens AD-konto
+* Historik
+  * Viser brugerens fulde historik over identifikationsmidler
+* Administrationshistorik
+  * Viser administrative hændelser og integritetssikringen heraf - eksempelvis tilknytning og spærring af identifikationsmidler
+* Trafik
+  * Viderestiller til modulet ADFS Log, hvor login-trafik kan
   fremsøges – tilføjer automatisk brugernavnet
+
+
+![Federation Menu](Billedmateriale\FederationIdentifikationsmiddeladministration.png)\
+![Federation Menu](Billedmateriale\Federation2FaktorAdministration.png)
 
 Afhængigt af tildelte roller, så er det under Administration muligt for en administrator at
 
-```
-▪ tilknytte SoloID app til brugerens AD-konto
-▪ tilknytte Yubikey til brugerens AD-konto
-▪ udstede engangskoder til brugeren (kan bruges som alternativ til login med privat MitID)
-▪ fjerne identifikationsmidler fra brugerens konto
-▪ udstede NSIS registreringskoder til brugeren (kan bruges som alternativ til personverifikation med
-privat MitID – kun hvis man har tilkøbt manuel registrering og er RA-administrator)
-```
+
+* Tilknytte SoloID app til brugerens AD-konto
+* Tilknytte Yubikey til brugerens AD-konto
+* Udstede engangskoder til brugeren (kan bruges som alternativ til login med privat MitID)
+* Fjerne identifikationsmidler fra brugerens konto
+* Udstede NSIS registreringskoder til brugeren (kan bruges som alternativ til personverifikation med privat MitID – kun hvis man har tilkøbt manuel registrering og er RA-administrator)
 
 Hvis der er registreret et eller flere identifikationsmidler på brugerens konto, så ses de i bunden af Admini-
 strationsfanebladet.
