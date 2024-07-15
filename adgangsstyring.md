@@ -1,11 +1,12 @@
 ---
 title: Adgangsstyring
 layout: default
-nav_order: 2
-has_children: true
+nav_order: 
+parent: index Adgangsstyring
+has_children: false
 ---
 Juli 2024
-## Adgangsstyring
+# Adgangsstyring
 
 ### Administrer brugeres identifikationsmidler og adgange til systemerne i den fælleskommunale (FK) rammearkitektur og MitID Erhverv
 

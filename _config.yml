@@ -11,7 +11,7 @@ aux_links: # remove if you don't want this link to appear on your pages
 nav:
   - title: "Home"
     url: /
-  - title: "Adgangsstyring"
+  - title: "index Adgangsstyring"
     url: /adgangsstyring/
     #children:
     #  - title: "underpunkt 1"
