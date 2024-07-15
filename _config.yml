@@ -13,9 +13,9 @@ nav:
     url: /
   - title: "Adgangsstyring"
     url: /adgangsstyring/
-    children:
-      - title: "underpunkt 1"
-        url: /adgangsstyring/underpunkt1/
+    #children:
+    #  - title: "underpunkt 1"
+    #    url: /adgangsstyring/underpunkt1/
 
 # Collection settings
 collections:
