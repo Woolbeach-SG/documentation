@@ -7,7 +7,7 @@ url: woolbeach-sg.github.io/documentation/
 logo: "/assets/SG-logo_plain.png"
 
 aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: woolbeach-sg.github.io
+  Github Repository: woolbeach-sg.github.io
 
 # Navigation links
 nav:
