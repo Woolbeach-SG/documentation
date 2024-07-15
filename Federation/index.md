@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Adgangsstyring Index
+title: Adgangsstyring
 nav_order: 2
 has_children: True
 ---
