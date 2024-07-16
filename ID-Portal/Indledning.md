@@ -15,11 +15,11 @@ mangler at gøre.
 
 Hvis dit login er sikret, så vil du se nedenstående oversigtsbillede.
 
-![ID-Portal forside fuldent](Billedmateriale\sibfrontpage.jpg)
+![ID-Portal forside fuldent](Billedmateriale\SibFrontpage.jpg)
 
 Hvis dit login ikke er sikret, så vil du se nedenstående oversigtsbillede.
 
-![ID-Portal forside ikke fuldent](Billedmateriale\sibfrontpage2.jpg)
+![ID-Portal forside ikke fuldent](Billedmateriale\SibFrontpage2.jpg)
 
 Sikring af dit login omfatter følgende ting:
 
