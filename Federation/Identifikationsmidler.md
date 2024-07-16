@@ -26,13 +26,13 @@ Klik på det brugernavn hvis detaljerede oplysninger ønskes vist.
 
 I billedet med detaljerede brugeroplysninger er der fire faneblade:
 
-* Administration
+* **Administration**
    * Viser oplysninger om brugerens AD-konto
-* Historik
+* **Historik**
    * Viser brugerens fulde historik over identifikationsmidler
-* Administrationshistorik
+* **Administrationshistorik**
    * Viser administrative hændelser og integritetssikringen heraf - eksempelvis tilknytning og spærring af identifikationsmidler
-* Trafik
+* **Trafik**
    * Viderestiller til modulet ADFS Log, hvor login-trafik kan
      fremsøges – tilføjer automatisk brugernavnet
 

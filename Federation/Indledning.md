@@ -13,22 +13,22 @@ administrere brugeres identifikationsmidler, certifikater og adgange til systeme
 
 Adgangsstyring indeholder følgende moduler:
 
-* Identifikationsmidler\
+* **Identifikationsmidler**\
 Administration af brugeres identifikationsmidler til brug i føderative systemer, hvor tjenester kræ-
 ver to-faktor adgang.
-* FK Administration\
+* **FK Administration**\
 Administration af brugere og deres jobfunktionsroller og tilhørende opmærkninger til brug for ad-
 gang til fagsystemer i FK rammearkitekturen.
-* FK Organisation\
+* **FK Organisation**\
 Administration af organisatoriske funktioner og tilhørende opmærkninger til brug i støttesystemet
 Organisation i FK rammearkitekturen.
-* ADFS Log\
+* **ADFS Log**\
 Inspektion af data opsamlet i forbindelse med brugeres føderative logins via ADFS.
-* Certifikatstyring\
+* **Certifikatstyring**\
 Administration af certifikater
-* FBRS\
+* **FBRS**\
 Oversigt, udtræk og håndtering af rettigheder fra MitID Erhverv.
-* Indstillinger\
+* **Indstillinger**\
 Her findes aktivitetslog til udtræk, detaljer om opsætning, konfiguration af adgangsgivende AD-
 grupper både for identifikationsmidler og for adgangen til Adgangsstyring-portalen, samt liste over
 hvilke licenserede tredjepartsprodukter Adgangsstyring anvender.

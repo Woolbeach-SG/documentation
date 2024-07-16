@@ -55,6 +55,7 @@ enten kan se og udpege den ønskede gruppe i dropdown-listen, eller begynde at s
 i gruppens navn, hvorved listens elementer tilpasses.
 
 **9.3.1 FK Administration**
+
 Under FK Administration er der tre roller:
 * AD læseadgang (Read only)
 * AD redigeringsadgang (Administrator)
@@ -76,6 +77,7 @@ Bemærk, at Synkroniseringsadgang indeholder Redigeringsadgang, og Redigeringsad
 ![Indstillinger - FK Organisation](Billedmateriale\KonfigurerAdgangFKOrganisation.png)
 
 **9.3.3 ADFS Logs**
+
 Under ADFS Logs er der tre roller:
 * Logdata læseadgang (Read only)
 * Auditøradgang (Auditør)
@@ -86,6 +88,7 @@ Bemærk, at Logdata sletteadgang indeholder logdata læseadgang, men _ikke_ Audi
 ![Indstillinger - ADFS Logs](Billedmateriale\KonfigurerAdgangADFSLogs.png)
 
 **9.3.4 Identifikationsmidler**
+
 Under identifikationsmidler er der op til fem roller:
 * Læseadgang (Read only)
 * Auditøradgang (Auditør)
@@ -98,18 +101,20 @@ Bemærk, at manuel verifikation er et tilkøbsmodul.
 ![Indstillinger - Identifikationsmidler](Billedmateriale\KonfigurerAdgangIdentifikationsmidler.png)
 
 **9.3.5 Certifikatstyring**
+
 Under certifikatstyring er der kun én rolle:
 * Certifikatstyring (Administrator)
 
 ![Indstillinger - Certifikatstyring](Billedmateriale\KonfigurerAdgangCertifikatstyring.png)
 
 **9.3.6 Rettighedsadministration**
-Under Rettighedsadministration er der kun én rolle - men til gengæld er det rollen, som giver adgang til at\
+
+Under Rettighedsadministration er der kun én rolle - men til gengæld er det rollen, som giver adgang til at
 administrere alle de andre roller i Adgangsstyring.
 * Rettighedsadministration  (Administrator)
 
-I forbindelse med opsætningen af Adgangsstyring-modulet, vil det kun vær en domæneadministrator, der kan tilgå "Rettighedsadministration"-fanen\
-og ingen af de andre faner vil være synlige. Domæneadministratoren sætter en AD-gruppe op, som skal være for dem, som må få adgang til at se og konfigurere\
+I forbindelse med opsætningen af Adgangsstyring-modulet, vil det kun vær en domæneadministrator, der kan tilgå "Rettighedsadministration"-fanen
+og ingen af de andre faner vil være synlige. Domæneadministratoren sætter en AD-gruppe op, som skal være for dem, som må få adgang til at se og konfigurere
 adgangen til de moduler, der er tilgængelige i løsningen.\
 Dette er en sikkerhedsforanstaltning, der sikrer fuld kontrol over hvem der har adgang til de enkelte moduler.\
 For en mere detaljeret og teknisk uddybning, se da afsnittet 10.1 "Systemadministrator".

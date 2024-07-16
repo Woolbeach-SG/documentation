@@ -40,13 +40,13 @@ Under Gruppe DN skal synkroniseringsgruppenavnets Distinguished Name stå. Et ek
 ▪ CN=MitIDErhverv,OU=gruppe,OU=organisation,OU=securitygroup,DC=domæne,DC=dk
 
 De forskellige bokse der kan afkrydses, betyder følgende;
-* Bestil ID-midler:
+* **Bestil ID-midler:**
   * Skal afkrydses hvis I ønsker at IdM-sync løsningen skal bestille ID-midler (kodeviser, chip,
   kodeoplæser) til brugere, der har valgt en af disse ID-midler.
   * Har I oplyst et EAN-nummer i MitID Erhverv, og ønsker at IdM-sync skal bestille ID-midler,
   skal I notere det oplyste EAN-nummer i boksen nederst på siden.
 
-* Opsæt adresse på gruppe (standard er læst fra AD-bruger):
+* **Opsæt adresse på gruppe (standard er læst fra AD-bruger):**
   * Skal afkrydses hvis I ønsker, at de ID-midler, der bestilles gennem IdM-sync løsningen, skal
   sendes til fx hovedkontoret, hvor I derefter selv står for distribueringen.
   * (Som standard aflæses adressen direkte på den pågældende AD-bruger og ID-midlet sendes

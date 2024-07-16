@@ -50,7 +50,7 @@ Ved en valgt rettighedsgruppe, vises en oversigt over de AD-gruppe tilknytning, 
 **8.5.1 Ændr Ad-gruppe**
 Når der trykkes "Ændr Ad-gruppe" kan indtaste full qualified domain name på den ønskede AD-gruppe der skal tilknyttes.
 
-**8.5.2 Ændr Scope
+**8.5.2 Ændr Scope**
 Når der trykkes på "Ændr scope" kan man afgrænse rettighedsgruppen til et specifikt PU-nummer, SE-nummer eller CVR. 
 
 **8.5.3 Tilføj Roller**

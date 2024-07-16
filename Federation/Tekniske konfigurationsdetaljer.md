@@ -65,23 +65,23 @@ herunder.
 Antag at organisationen har følgende brugeradministratorer:
 
 
-* Anders\
+* **Anders**\
 Superadministrator som skal have adgang til alt i Adgangsstyring.
 
 
-* Bent\
+* **Bent**\
 FK-administrator som skal have adgang til alt under FK Administration.
 
 
-* Carsten\
+* **Carsten**\
 Lokal administrator for SAPA og skal have adgang til at give brugere rettigheder i SAPA.
 
 
-* Dennis\
+* **Dennis**\
 Lokal administrator for KSD og skal have adgang til at give brugere rettigheder i KSD.
 
 
-* Erik\
+* **Erik**\
 Auditør som skal have adgang til at se logs.
 
 Systemadministratoren og rolleadministratoren har fastlagt nedenstående relation mellem roller, rettighe-
@@ -91,39 +91,39 @@ meldt ind for at de kan opnå de nødvendige rettigheder i Adgangsstyring.
 Relationer:
 
 
-* AD-gruppe: Adgangsstyring (autorisationsgruppe)\
+* **AD-gruppe: Adgangsstyring (autorisationsgruppe)**\
 Repræsenterer de brugere, der har grundliggende adgang til Adgangsstyring.\
 Medlemmer: Anders, Bent, Carsten, Dennis, Erik
 
 
-* AD-gruppe: FK-Admin\
+* **AD-gruppe: FK-Admin**\
 Udløser rollen ACCESS_CONTROL.\
 Medlemmer: Anders, Bent, Carsten, Dennis
 
 
-* AD-gruppe: JFR-Admin\
+* **AD-gruppe: JFR-Admin**\
 Udløser rollen ACCESS_CONTROL_STS.\
 Medlemmer: Anders, Bent
 
 
-* AD-gruppe: Lokal-Admin\
+* **AD-gruppe: Lokal-Admin**\
 Udløser rollen ACCESS_CONTROL_LOCAL.\
 Medlemmer: Carsten, Dennis
 
 
-* AD-gruppe: SAPA-Admin\
+* **AD-gruppe: SAPA-Admin**\
 Repræsenterer en SAPA-restriktion (fx et undertræ i AD).\
 Udløser rollen ACCESS_CONTROL_LOCAL + en restriktion\
 Medlemmer: Carsten
 
 
-* AD-gruppe: KSD-Admin\
+* **AD-gruppe: KSD-Admin**\
 Repræsenterer en KSD-restriktion (fx et undertræ i AD).\
 Udløser rollen ACCESS_CONTROL_LOCAL + en restriktion\
 Medlemmer: Dennis
 
 
-* AD-gruppe: Auditør\
+* **AD-gruppe: Auditør**\
 Udløser rollerne AUDITOR, ADFS, IDM, IDM_AUDITOR\
 Medlemmer: Erik
 

@@ -10,7 +10,7 @@ has_children: false
 
 Accept af betingelser startes ved at klikke på knappen Betingelser i oversigtsbilledets menulinie.
 
-![ID-Portal forside](Billedmateriale\sibfrontpage.jpg)
+![ID-Portal forside](Billedmateriale\SibFontpage.jpg)
 
 Når du har læst betingelserne skal du trykke på knappen Acceptér for at registrere din accept i
 systemet. Herefter er din accept af betingelserne gennemført, hvilket kan ses i oversigtsbilledet som
