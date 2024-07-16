@@ -37,7 +37,7 @@ nav:
         url: /adgangsstyring/indstillinger/ 
       - title: "Tekniske konfigurationsdetaljer"
         url: /adgangsstyring/tekniske_konfigurationsdetaljer/  
-  - title: "ID-Portal (SIB)"
+  - title: "ID-Portal"
     url: /id-portal/
     children:
       - title: "Indledning"
