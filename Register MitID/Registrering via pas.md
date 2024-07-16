@@ -37,15 +37,15 @@ En beskrivelse af Nets paslæser app kan ses via dette link:
 
 1. I browseren beder brugeren om at installere Nets paslæser app.
 
-![NETS ID Verifier Install](NEIDV1.jpg)
+![NETS ID Verifier Install](Billedmateriale\NEIDV1.jpg)
 
 2. I browseren viser brugeren en aktiveringskode og beder brugeren om at verificere sig i app'en. Resten af forløbet finder sted i app'en.
 
-![NETS ID Verifier Kode](NEIDV2.jpg)
+![NETS ID Verifier Kode](Billedmateriale\NEIDV2.jpg)
 
 3. I browseren viser brugeren en kvitteringsside efter gennemført pasregistrering.
 
-![NETS ID Verifier Kvittering](NEIDV3.jpg)
+![NETS ID Verifier Kvittering](Billedmateriale\NEIDV3.jpg)
 
 ### 3.1 Identitetssikring med pas
 
@@ -53,21 +53,21 @@ Efter endt pasregistreirng har brugeren mulighed for at gennemføre NSIS identit
 
 I en browser åbnes ID-Portalen.
 
-![ID-Portalen](IDPortalen.png)
+![ID-Portalen](Billedmateriale\IDPortalen.png)
 
 Klik på "Passport" for at starte NETS paslæser. Første billede kan bruges til at hente app'en, hvis den ikke allerede er installeret på brugerens smartphone.
 
-![NETS ID Verifier Download](NetsPaslæserDownload.jpg)
+![NETS ID Verifier Download](Billedmateriale\NetsPaslæserDownload.jpg)
 
 Næste billede viser aktiveringskoden smo en talkode og som en QR-kode. Aktiveringskoden skal anvendes i app'en til at starte verifikationsforløbet.
 
-![NETS ID Verifier Godkend](NEIDV4.jpg)
+![NETS ID Verifier Godkend](Billedmateriale\NEIDV4.jpg)
 
 Næste billede vises, mens brugeren verificerer sig i app'en.
 
-![NETS ID Verifier Afventer](NEIDV5.jpg)
+![NETS ID Verifier Afventer](Billedmateriale\NEIDV5.jpg)
 
 Efter gennemført verifikation i Nets paslæser-app kommer brugeren ind i den lokale IDP's ID-Portal, og kan fuldføre sin registrering i systemet på samme måde som brugere,
 der har autentificeret sig med personligt MitID.
 
-![NETS ID Verifier Afventer](IdPortalLogin.png)
+![NETS ID Verifier Afventer](Billedmateriale\IdPortalLogin.png)
