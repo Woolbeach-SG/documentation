@@ -54,7 +54,7 @@ En AD-gruppe fremsøges ved at klikke på Redigér-ikonet ud for feltet, hvoreft
 enten kan se og udpege den ønskede gruppe i dropdown-listen, eller begynde at skrive de første bogstaver
 i gruppens navn, hvorved listens elementer tilpasses.
 
-#### 9.3.1 FK Administration
+**9.3.1 FK Administration**
 Under FK Administration er der tre roller:
 * AD læseadgang (Read only)
 * AD redigeringsadgang (Administrator)
@@ -64,7 +64,7 @@ Bemærk, at STS Administrator indeholder Redigeringsadgang, og Redigeringsadgang
 
 ![Indstillinger - FK Administration](Billedmateriale\KonfigurerAdgangFKadministration.png)
 
-#### 9.3.2 FK Organisation
+**9.3.2 FK Organisation**
 
 Under FK Organisation er der tre roller:
 * AD læseadgang (Read only)
@@ -75,7 +75,7 @@ Bemærk, at Synkroniseringsadgang indeholder Redigeringsadgang, og Redigeringsad
 
 ![Indstillinger - FK Organisation](Billedmateriale\KonfigurerAdgangFKOrganisation.png)
 
-#### 9.3.3 ADFS Logs
+**9.3.3 ADFS Logs**
 Under ADFS Logs er der tre roller:
 * Logdata læseadgang (Read only)
 * Auditøradgang (Auditør)
@@ -85,7 +85,7 @@ Bemærk, at Logdata sletteadgang indeholder logdata læseadgang, men _ikke_ Audi
 
 ![Indstillinger - ADFS Logs](Billedmateriale\KonfigurerAdgangADFSLogs.png)
 
-#### 9.3.4 Identifikationsmidler
+**9.3.4 Identifikationsmidler**
 Under identifikationsmidler er der op til fem roller:
 * Læseadgang (Read only)
 * Auditøradgang (Auditør)
@@ -97,13 +97,13 @@ Bemærk, at manuel verifikation er et tilkøbsmodul.
 
 ![Indstillinger - Identifikationsmidler](Billedmateriale\KonfigurerAdgangIdentifikationsmidler.png)
 
-#### 9.3.5 Certifikatstyring
+**9.3.5 Certifikatstyring**
 Under certifikatstyring er der kun én rolle:
 * Certifikatstyring (Administrator)
 
 ![Indstillinger - Certifikatstyring](Billedmateriale\KonfigurerAdgangCertifikatstyring.png)
 
-#### 9.3.6 Rettighedsadministration
+**9.3.6 Rettighedsadministration**
 Under Rettighedsadministration er der kun én rolle - men til gengæld er det rollen, som giver adgang til at\
 administrere alle de andre roller i Adgangsstyring.
 * Rettighedsadministration  (Administrator)
