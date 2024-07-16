@@ -10,13 +10,13 @@ has_children: false
 
 Sikring af din adgangskode til netværket startes ved at klikke på knappen Adgangskode i oversigtsbilledets menulinie.
 
-![ID-Portal forside](Billedmateriale\SibPw1.jpg)
+![Adgangskode indtastning](Billedmateriale\SibPw1.jpg)
 
 Vælg dig en ny adgangskode, indtast den i de to felter, og klik på knappen Aktivér for at aktivere din
 nye adgangskode til dit login i jeres netværk. Herefter er sikring af din adgangskode gennemført,
 hvilket kan ses i oversigtsbilledet som en grøn cirkel med et flueben i.
 
-![ID-Portal forside](Billedmateriale\SibPw2.jpg)
+![Godkendt adgangskode](Billedmateriale\SibPw2.jpg)
 
 Du kan altid klikke på knappen Adgangskode for at vælge dig en ny adgangskode.
 Hvis du ikke længere ønsker, at din adgangskode skal være godkendt til brug ved login hos nationale

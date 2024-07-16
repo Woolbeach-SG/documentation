@@ -38,5 +38,5 @@ ID-portalens oversigtsbillede ser således ud, hvis ingen sikringer er gennemfø
 
 ID-portalens oversigtsbillede ser således ud, hvis alle sikringer er gennemført:
 
-![ID-Portal forside](Billedmateriale\SibCheckmarks.jpg)
+![ID-Portal flueben](Billedmateriale\SibCheckmarks.jpg)
 
