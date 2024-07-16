@@ -38,8 +38,5 @@ nav:
       - title: "Tekniske konfigurationsdetaljer"
         url: /adgangsstyring/tekniske_konfigurationsdetaljer/  
 
-# Collection settings
-collections:
-  docs:
-    output: true
-    permalink: /docs/:path/
+plugins:
+  - jekyll-last-modified-at
