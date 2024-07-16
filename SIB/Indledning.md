@@ -1,7 +1,7 @@
 ﻿---
 title: Indledning
 layout: default
-parent: ID-Portal (SIB)
+parent: ID-Portal
 nav_order: 1
 has_children: false
 ---
