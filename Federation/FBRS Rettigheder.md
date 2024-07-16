@@ -2,7 +2,7 @@
 title: 8 FBRS Rettigheder
 layout: default
 parent: Adgangsstyring
-nav_order: 7
+nav_order: 8
 has_children: false
 ---
 

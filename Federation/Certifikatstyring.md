@@ -2,7 +2,7 @@
 title: 7 Certifikatstyring
 layout: default
 parent: Adgangsstyring
-nav_order: 6
+nav_order: 7
 has_children: false
 ---
 

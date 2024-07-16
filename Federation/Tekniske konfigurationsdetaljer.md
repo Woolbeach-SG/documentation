@@ -2,7 +2,7 @@
 title: 10 Tekniske konfigurationsdetaljer
 layout: default
 parent: Adgangsstyring
-nav_order: 9
+nav_order: 10
 has_children: false
 ---
 

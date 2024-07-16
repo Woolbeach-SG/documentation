@@ -2,7 +2,7 @@
 title: 6 ADFS Log
 layout: default
 parent: Adgangsstyring
-nav_order: 5
+nav_order: 6
 has_children: false
 ---
 
