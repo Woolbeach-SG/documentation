@@ -18,9 +18,9 @@ Bekræftelse af din identitet med brug af MitID foregår på helt samme måde so
 MitID andre steder. Du bliver viderestillet til MitID’s loginside, hvor du skal logge ind med dit private
 MitID.
 
-![ID-Portal forside](Billedmateriale\sibfrontpage.jpg)
+![ID-Portal forside](Billedmateriale\sibMitID1.jpg)
 
-![ID-Portal forside](Billedmateriale\sibfrontpage.jpg)
+![ID-Portal forside](Billedmateriale\sibMitID2.jpg)
 
 Når systemet har godkendt din identifikation med MitID sendes du videre til ID-portalens
 oversigtsbillede. Se et eksempel på oversigtsbilledet i det indledende afsnit i denne vejledning.
@@ -33,7 +33,7 @@ forbindelse med din henvendelse til din servicedesk, hvor du gennemgik en manuel
 din identitet. Den første registreringskode fik du udleveret på stedet, og den anden registreringskode
 fik du tilsendt i en SMS.
 
-![ID-Portal forside](Billedmateriale\sibfrontpage.jpg)
+![ID-Portal forside](Billedmateriale\SibRegistreringskode.jpg)
 
 Systemet har brug for at vide, hvilket login du har, inden du kan bekræfte din identitet, så hvis du
 ikke umiddelbart kan se fanebladet Registreringskode, så vælg fanebladet ADFS, og gennemfør et

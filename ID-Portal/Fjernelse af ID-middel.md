@@ -11,7 +11,7 @@ has_children: false
 Fjernelse af ID-middel startes ved at klikke på knappen Fjern i oversigtsbilledet ud for det ID-middel,
 der skal fjernes.
 
-![ID-Portal forside](Billedmateriale\sibfrontpage.jpg)
+![ID-Portal forside](Billedmateriale\SibIdMiddelHello2.jpg)
 
 Billedet herover er et eksempel, der viser, hvor knappen til fjernelse af Windows Hello fra dit login er
 placeret.
@@ -26,12 +26,12 @@ Efter fjernelse af ID-midlet sender systemet en kvitteringsmail til dig.
 
 Inden Windows Hello fjernes fra dit login beder systemet dig om at bekræfte din handling.
 
-![ID-Portal forside](Billedmateriale\sibfrontpage.jpg)
+![ID-Portal forside](Billedmateriale\SibRemoveHello1.jpg)
 
 Når du har bekræftet dit ønske, så fjerner systemet Windows Hello fra dit login, og viser dig en
 kvittering.
 
-![ID-Portal forside](Billedmateriale\sibfrontpage.jpg)
+![ID-Portal forside](Billedmateriale\SibRemoveHello2.jpg)
 
 Klik på knappen OK for at vende tilbage til oversigtsbilledet.
 
@@ -39,11 +39,11 @@ Klik på knappen OK for at vende tilbage til oversigtsbilledet.
 
 Inden SoloID app fjernes fra dit login beder systemet dig om at bekræfte din handling.
 
-![ID-Portal forside](Billedmateriale\sibfrontpage.jpg)
+![ID-Portal forside](Billedmateriale\SibRemoveSolo1.jpg)
 
 Når du har bekræftet dit ønske, så fjerner systemet SoloID app fra dit login, og viser dig en kvittering.
 
-![ID-Portal forside](Billedmateriale\sibfrontpage.jpg)
+![ID-Portal forside](Billedmateriale\SibRemoveSolo2.jpg)
 
 Klik på knappen OK for at vende tilbage til oversigtsbilledet.
 
@@ -51,11 +51,11 @@ Klik på knappen OK for at vende tilbage til oversigtsbilledet.
 
 Inden chippen fjernes fra dit login beder systemet dig om at bekræfte din handling.
 
-![ID-Portal forside](Billedmateriale\sibfrontpage.jpg)
+![ID-Portal forside](Billedmateriale\SibRemoveChip1.jpg)
 
 Når du har bekræftet dit ønske, så fjerner systemet chippen fra dit login, og viser dig en kvittering.
 
-![ID-Portal forside](Billedmateriale\sibfrontpage.jpg)
+![ID-Portal forside](Billedmateriale\SibRemoveChip2.jpg)
 
 Klik på knappen OK for at vende tilbage til oversigtsbilledet.
 
@@ -63,12 +63,12 @@ Klik på knappen OK for at vende tilbage til oversigtsbilledet.
 
 Inden kodeviseren fjernes fra dit login beder systemet dig om at bekræfte din handling.
 
-![ID-Portal forside](Billedmateriale\sibfrontpage.jpg)
+![ID-Portal forside](Billedmateriale\SibRemoveKodeviser1.jpg)
 
 Når du har bekræftet dit ønske, så fjerner systemet kodeviseren fra dit login, og viser dig en
 kvittering.
 
-![ID-Portal forside](Billedmateriale\sibfrontpage.jpg)
+![ID-Portal forside](Billedmateriale\SibRemoveKodeviser2.jpg)
 
 Klik på knappen OK for at vende tilbage til oversigtsbilledet.
 
@@ -76,11 +76,11 @@ Klik på knappen OK for at vende tilbage til oversigtsbilledet.
 
 Inden kodeviser app’en fjernes fra dit login beder systemet dig om at bekræfte din handling.
 
-![ID-Portal forside](Billedmateriale\sibfrontpage.jpg)
+![ID-Portal forside](Billedmateriale\SibRemoveKodeviserApp1.jpg)
 
 Når du har bekræftet dit ønske, så fjerner systemet kodeviser app’en fra dit login, og viser dig en
 kvittering.
 
-![ID-Portal forside](Billedmateriale\sibfrontpage.jpg)
+![ID-Portal forside](Billedmateriale\SibRemoveKodeviserApp2.jpg)
 
 Klik på knappen OK for at vende tilbage til oversigtsbilledet.
