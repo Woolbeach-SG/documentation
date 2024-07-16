@@ -34,30 +34,30 @@ Her kan der både oprettes AD-grupper direkte eller tilføjes en allerede eksist
 Under ”Navn” ses hvad brugerrettighedsgrupperne hedder i MitID Erhverv og ”AD-gruppenavn” er det som
 AD-gruppen hedder.
 
-#### 8.4.1 Tilføj gruppe
+**8.4.1 Tilføj gruppe**
 Når der trykkes ”Tilføj gruppe” tilføjes der både en AD-gruppe og en brugerrettighedsgruppe i MitID Erhverv automatisk.
 
-#### 8.4.2 Opret grupper
+**8.4.2 Opret grupper**
 Når der trykkes ”Opret grupper” oprettes der en AD-gruppe, på baggrund af de brugerrettighedsgrupper i
 MitID Erhverv som endnu ikke har tildelt en AD-gruppe. AD-grupperne vil navngives på formen "[CVR] [Navn på gruppe]"
 
-#### 8.4.3 Fjern tilknytninger til slettede AD-grupper
+**8.4.3 Fjern tilknytninger til slettede AD-grupper**
 Når der trykkes "Fjern tilknytninger til slettede AD-grupper", fjernes der tilknytninger til AD-grupper der ikke længere kan findes i AD. 
 
 ### 8.5 Rettighedsoversigt
 Ved en valgt rettighedsgruppe, vises en oversigt over de AD-gruppe tilknytning, Scope og roller.
 
-#### 8.5.1 Ændr Ad-gruppe
+**8.5.1 Ændr Ad-gruppe**
 Når der trykkes "Ændr Ad-gruppe" kan indtaste full qualified domain name på den ønskede AD-gruppe der skal tilknyttes.
 
-#### 8.5.2 Ændr Scope
+**8.5.2 Ændr Scope
 Når der trykkes på "Ændr scope" kan man afgrænse rettighedsgruppen til et specifikt PU-nummer, SE-nummer eller CVR. 
 
-#### 8.5.3 Tilføj Roller
+**8.5.3 Tilføj Roller**
 Når der trykkes "Tilføj roller" er det muligt at fremsøge og vælge op til flere roller fra MitID Erhvervs rolle-katalog, og tilføje det til gruppen.
 
-#### 8.5.4 Fjern Rolle
+**8.5.4 Fjern Rolle**
 Når der trykkes på "Fjern rolle", bliver den enkelte valgte rolle fjernet fra rettighedsgruppen. 
 
-#### 8.5.5 Slet gruppe
+**8.5.5 Slet gruppe**
 Når der trykkes på "Slet gruppe" slettes rettighedsgruppen fra MitID Erhverv. 
