@@ -20,4 +20,3 @@ nav:
     url: /id-portal/
 plugins:
   - jekyll-last-modified-at
-  - jekyll-git-metadata
