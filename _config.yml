@@ -16,28 +16,8 @@ nav:
     url: /
   - title: "Adgangsstyring"
     url: /adgangsstyring/
-    children:
-      - title: "Indledning"
-        url: /adgangsstyring/indledning/
-      - title: "Roller og rettigheder"
-        url: /adgangsstyring/roller_og_rettigheder/
-      - title: "Identifikationsmidler"
-        url: /adgangsstyring/identifikationsmidler/
-      - title: "FK Administration"
-        url: /adgangsstyring/fk_administration/
-      - title: "FK Organisation"
-        url: /adgangsstyring/fk_organisation/
-      - title: "ADFS Log"
-        url: /adgangsstyring/adfs_log/
-      - title: "Certifikatstyring"
-        url: /adgangsstyring/identifikationsmidler/  
-      - title: "FBRS Rettigheder"
-        url: /adgangsstyring/fbrs/
-      - title: "Indstillinger"
-        url: /adgangsstyring/indstillinger/ 
-      - title: "Tekniske konfigurationsdetaljer"
-        url: /adgangsstyring/tekniske_konfigurationsdetaljer/  
   - title: "ID-Portal"
     url: /id-portal/
 plugins:
   - jekyll-last-modified-at
+  - jekyll-git-metadata
