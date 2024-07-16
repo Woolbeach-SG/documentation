@@ -29,7 +29,7 @@ skriverettigheder til AD-attributten ”altSecurityidentities”
 Registreringen af CPR/fødselsdato bliver tilføjet i attributten "altSecurityidentities" på brugeren i AD’et, når
 brugeren har udført et MitID login.
 
-<img alt="AD-bruger inden registrering" height="65%" src="Billedmateriale\ADbruger.png" width="65%"/>
+![Formbased Login](Billedmateriale\ADbruger.png)
 
 Bemærk, registreringen skal foretages, mens brugeren er logget ind på en pc på det interne lokale netværk.
 
