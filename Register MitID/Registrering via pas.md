@@ -70,4 +70,4 @@ Næste billede vises, mens brugeren verificerer sig i app'en.
 Efter gennemført verifikation i Nets paslæser-app kommer brugeren ind i den lokale IDP's ID-Portal, og kan fuldføre sin registrering i systemet på samme måde som brugere,
 der har autentificeret sig med personligt MitID.
 
-![NETS ID Verifier Afventer](Billedmateriale\IdPortalLogin.png)
+![NETS ID Verifier Afventer](Billedmateriale\IdPortalLogin.jpg)
