@@ -37,6 +37,10 @@ nav:
         url: /adgangsstyring/indstillinger/ 
       - title: "Tekniske konfigurationsdetaljer"
         url: /adgangsstyring/tekniske_konfigurationsdetaljer/  
-
+  - title: "ID-Portal (SIB)"
+    url: /id-portal/
+    children:
+      - title: "Indledning"
+        url: /id-portal/indledning/
 plugins:
   - jekyll-last-modified-at
