@@ -19,5 +19,5 @@ det interne IT-miljø. Modulet kan også være nyttigt i tilfælde, hvor medarbe
 skal registrere sig med deres pas. Pas-registrering kan tilkøbes som en del af Register MitID-modulet.
 
 De to tilgængelige registreringsmetoder til identitetsbekræftelse – henholdsvis registrering gennem en MitID-login 
-eller registrering gennem pas – er beskrevet i separate afsnit i denne vejledning. Hver registreringsproces er omfattende beskrevet, 
+eller registrering gennem pas – er beskrevet i separate afsnit i denne vejledning. Hver registreringsproces er omfattende beskrevet, 
 sammen med indblik i konfigurationen af modulet.
