@@ -29,7 +29,7 @@ skriverettigheder til AD-attributten ”altSecurityidentities”
 Registreringen af CPR/fødselsdato bliver tilføjet i attributten "altSecurityidentities" på brugeren i AD’et, når
 brugeren har udført et MitID login.
 
-![AD-Bruger](Billedmateriale\ADBruger.png)
+<img src="Billedmateriale/ADBruger.png" width="500"/>
 
 Bemærk, registreringen skal foretages, mens brugeren er logget ind på en pc på det interne lokale netværk.
 
@@ -37,15 +37,15 @@ I en browser åbnes registreringssiden (eksempel: https://idportal.kundenavn.dk/
 om at logge ind med sin AD-bruger. Løsningen understøtter SSO, så hvis brugeren allerede er
 logget ind, vil brugeren komme direkte til RegisterMitID-siden.
 
-![Formbased Login](Billedmateriale\FormbasedLogin.png)
+<img src="Billedmateriale/FormbasedLogin.png" width="500"/>
 
 På registreringssiden vælges "Log ind med MitID", som starter et sædvanligt login-forløb med MitID.
 
-![RegisterMitID Frontpage](Billedmateriale\RegisterMitID Frontpage.png)
+<img src="Billedmateriale/RegisterMitID Frontpage.png" width="500"/>
 
 Efter et fuldført MitID login bliver brugeren mødt af denne side, og har færdiggjort processen.
 
-![RegisterMitIDSucess](Billedmateriale\RegisterMitIDSucess.png)
+<img src="Billedmateriale/RegisterMitIDSucess.png" width="500"/>
 
 I AD'et kan man efterfølgende se at brugerens oplysninger er tilføjet til "altSecurityIdentities"-attributten.
 
@@ -60,9 +60,9 @@ Hvis det er et CPR-nummer der er oplyst, vil det fremgå i krypteret på formen:
 "ENCRYPTED:SSN: xxx"
 ```
 
-![Værdier i altSecurityIdentities](Billedmateriale\ADaltSecurityIdentitiers.png)
+<img src="Billedmateriale/ADaltSecurityIdentitiers.png" width="500"/>
 
 Hvis brugeren efterfølgende bliver i tvivl, så vil der nu vises på RegisterMitID-siden at brugeren allerede har gennemført registreringen.
 Hvis registreringen gennemføres igen, bliver den tidligere registrering overskrevet.
 
-![Allerede registreret bruger](Billedmateriale\RegisterMitIDExisting.png)
+<img src="Billedmateriale/RegisterMitIDExisting.png" width="500"/>
