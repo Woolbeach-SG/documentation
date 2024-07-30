@@ -5,5 +5,5 @@ nav_order: 2
 has_children: true
 ---
 # Adgangsstyring
-**Opdateret:** {{ site.time | date: "%Y-%m-%d" }}
+**Opdateret:** {{ page.last_modified_at | date: "%Y-%m-%d %H:%M" }}
 
