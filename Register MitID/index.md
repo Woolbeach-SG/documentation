@@ -5,4 +5,4 @@ nav_order: 4
 has_children: true
 ---
 # Register MitID
-**Opdateret:** {{ site.time | date: "%Y-%m-%d" }}
+**Opdateret:** {{ page.last_modified_at | date: "%Y-%m-%d %H:%M" }}

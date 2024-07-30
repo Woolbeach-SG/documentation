@@ -5,4 +5,4 @@ nav_order: 3
 has_children: true
 ---
 # ID-Portal
-**Opdateret:** {{ site.time | date: "%Y-%m-%d" }}
+**Opdateret:** {{ page.last_modified_at | date: "%Y-%m-%d %H:%M" }}
