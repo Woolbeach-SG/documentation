@@ -11,7 +11,7 @@ has_children: false
 Modulet Certifikatstyring bruges til administration af certifikater.
 
 Modulet indeholder en overordnet funktion:
-▪ Administrér certifikater
+* Administrér certifikater
 
 ### 7.1 Administrér certifikater
 
